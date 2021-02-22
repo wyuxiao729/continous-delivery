@@ -163,6 +163,8 @@ xx是微服务环境下的编程框架，不仅仅只是高性能的Web容器，
 本文中我们了解到在微服务环境下持续交付所面临的问题与挑战，同时也大致清楚了在微服务环境中为了持续交付我们所付出的努力，最后再强调一下：微服务环境下的持续交付并不是自动化的devops
 ，其核心还是有没有规范和流程去保证微服务正确的独立部署。
 
+基础设施团队-王开平
+
 ## 参考
 
 - [Microservice Architecture](https://martinfowler.com/articles/microservices.html)（https://martinfowler.com/articles/microservices.html）
